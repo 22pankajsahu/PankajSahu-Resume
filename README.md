@@ -1,8 +1,6 @@
 # PankajSahu-Resume
 
-# very-basic-resume
-
-## Git and GitHub Assignment Submission
+## Assignment : Resume 
 
 ## Batch: FS-02
 
